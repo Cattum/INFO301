@@ -29,8 +29,6 @@ This repository contains all relevant materials for the project, including the a
 - Information Visualization Redesign Project.docx   &emsp; # Final article and project documentation
 - climate-risk-index-1.csv                          &emsp; # Original datasets used for visualization
 - redesign_visualization_colab.ipynb                &emsp; # Google Colab Jupyter notebook for reproduction
-- figures                                          &emsp;  # Exported figures, charts, and flowcharts
-  - figure 1: 
 - poster.png                                       &emsp; # Final project poster
 
 
