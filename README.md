@@ -14,7 +14,7 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 
 ## Poster Showcase
 
-![Poster]([poster.png](https://github.com/Cattum/INFO301/blob/main/Poster.png)
+![Poster](main/Poster.png)
 
 *The poster summarizes the research background, critique process, redesign strategies, and key visualization outcomes.*
 
@@ -29,13 +29,17 @@ This repository contains all relevant materials for the project, including the a
 ├── report/                 # Final article and project documentation
 │   └── Information Visualization Redesign Project.docx
 ├── data/                   # Original datasets used for visualization
-│   └── SaaS-Sales.csv
+│   └── climate-risk-index-1.csv
 ├── code/                   # Google Colab Jupyter notebook for reproduction
 │   └── redesign_visualization_colab.ipynb
 ├── figures/                # Exported figures, charts, and flowcharts
 │   └── figure1.png
 │   └── figure2.png
-│   └── ...
+│   └── figure3.png
+│   └── figure4.png
+│   └── figure5.png
+│   └── figure6.png
+│   └── figure7.png
 └── poster/                 # Final project poster
     └── poster.png
 ```
@@ -66,7 +70,7 @@ This repository contains all relevant materials for the project, including the a
 
 - SaaS-Sales.csv for sales profit analysis (Discount vs Quantity vs Profit).
 - Climate Risk Index dataset from Kaggle for final visualization:  
-[Climate Risk Dataset - Kaggle](https://www.kaggle.com/datasets/thedevastator/global-climate-risk-index-and-related-economic-l)
+[Climate Risk Dataset - Kaggle](https://www.kaggle.com/datasets/thedevastator/global-climate-risk-index-and-related-economic-l](https://www.kaggle.com/datasets/thedevastator/global-climate-risk-index-and-related-economic-l?resource=download)
 
 ---
 
