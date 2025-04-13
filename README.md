@@ -25,23 +25,13 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 This repository contains all relevant materials for the project, including the article, source data, code, and visual outputs.
 
 
-├── README.md               # Project introduction and structure
-├── report/                 # Final article and project documentation
-│   └── Information Visualization Redesign Project.docx
-├── data/                   # Original datasets used for visualization
-│   └── climate-risk-index-1.csv
-├── code/                   # Google Colab Jupyter notebook for reproduction
-│   └── redesign_visualization_colab.ipynb
-├── figures/                # Exported figures, charts, and flowcharts
-│   └── figure1.png
-│   └── figure2.png
-│   └── figure3.png
-│   └── figure4.png
-│   └── figure5.png
-│   └── figure6.png
-│   └── figure7.png
-└── poster/                 # Final project poster
-    └── poster.png
+- README.md                                          # Project introduction and structure
+- Information Visualization Redesign Project.docx    # Final article and project documentation
+- climate-risk-index-1.csv                           # Original datasets used for visualization
+- redesign_visualization_colab.ipynb                 # Google Colab Jupyter notebook for reproduction
+- figures                                            # Exported figures, charts, and flowcharts
+-  poster.png                                        # Final project poster
+
 
 
 ---
