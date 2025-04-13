@@ -22,10 +22,6 @@ This critique (Figure 2) of the cooling degree visualization (Figure 1) applies 
 
 Based on these evaluations, specific recommendations are made to enhance interpretability, accessibility, and data transparency.
 
-**References**  
-- Ware, C. (2021). *Information Visualization: Perception for Design* (4th ed.). Morgan Kaufmann.  
-- Tufte, E. R. (1983). *The Visual Display of Quantitative Information*. Graphics Press.  
-- Sandia National Laboratories. (2022). [FAIRer Data](https://www.sandia.gov/fairer-data)
 
 ---
 
@@ -59,11 +55,6 @@ It explores applications in:
 
 1. Expands the theoretical foundation of visualization research  
 2. Highlights the need for empirical validation across user groups  
-
-**References**  
-- Card, S. K., Mackinlay, J. D., & Shneiderman, B. (1999). *Readings in Information Visualization*.  
-- Munzner, T. (2014). *Visualization Analysis and Design*.  
-- Willett, W., Heer, J., & Agrawala, M. (2021). [The role of perception in information visualization](https://doi.org/10.1109/TVCG.2021.3049999)
 
 ---
 
@@ -126,10 +117,6 @@ Enhancements included:
 - Diverging color scales  
 - Contextual info (labels, metadata, licenses)
 
-**References**  
-- [Amazon Q – AWS](https://aws.amazon.com/cn/q/)  
-- [Gartner (2023) – Magic Quadrant](https://www.gartner.com)  
-
 ---
 
 ## Innovation – Final Redesign and Integration
@@ -159,10 +146,14 @@ Enhancements included:
 ### Figure 6: Final Simulation – Climate Risk  
 ### Figure 7: Workflow – Overall Redesign
 
-**References**  
+## References
 - [Amazon Q – AWS](https://aws.amazon.com/cn/q/)  
-- Ware, C. (2021). *Information Visualization*.  
-- Tufte, E. R. (1983). *The Visual Display of Quantitative Information*.  
+- Card, S. K., Mackinlay, J. D., & Shneiderman, B. (1999). *Readings in Information Visualization*.
+- [Gartner (2023) – Magic Quadrant](https://www.gartner.com)
+- Munzner, T. (2014). *Visualization Analysis and Design*.
 - [Sandia National Laboratories – FAIR Data](https://www.sandia.gov/fairer-data)
+- Tufte, E. R. (1983). *The Visual Display of Quantitative Information*. Graphics Press.  
+- Ware, C. (2021). *Information Visualization: Perception for Design* (4th ed.). Morgan Kaufmann.  
+- Willett, W., Heer, J., & Agrawala, M. (2021). [The role of perception in information visualization](https://doi.org/10.1109/TVCG.2021.3049999)
 
 ---
