@@ -24,7 +24,7 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 
 This repository contains all relevant materials for the project, including the article, source data, code, and visual outputs.
 
-```
+
 ├── README.md               # Project introduction and structure
 ├── report/                 # Final article and project documentation
 │   └── Information Visualization Redesign Project.docx
@@ -42,7 +42,7 @@ This repository contains all relevant materials for the project, including the a
 │   └── figure7.png
 └── poster/                 # Final project poster
     └── poster.png
-```
+
 
 ---
 
