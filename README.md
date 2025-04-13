@@ -14,7 +14,7 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 
 ## Poster Showcase
 
-![Poster](main/Poster.png)
+![Poster](Poster.png)
 
 *The poster summarizes the research background, critique process, redesign strategies, and key visualization outcomes.*
 
